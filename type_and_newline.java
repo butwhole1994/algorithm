@@ -1,18 +1,18 @@
-
+//https://www.acmicpc.net/problem/10718
 public class type_and_newline {
 	public static void main (String[] args) {
-		System.out.println("°­ÇÑÄ£±¸ ´ëÇÑÀ°±º");
-		System.out.println("°­ÇÑÄ£±¸ ´ëÇÑÀ°±º");
-		//System.out.println()Àº ¾²°í ³ª¼­ ÁÙÀ» ¹Ù²Û´Ù.
-		//System.out.print()´Â ÁÙ¹Ù²ŞÀÌ ¾ø´Ù.
+		System.out.println("ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°");
+		System.out.println("ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°");
+		//System.out.println()ì€ ì“°ê³  ë‚˜ì„œ ì¤„ì„ ë°”ê¾¼ë‹¤.
+		//System.out.print()ëŠ” ì¤„ë°”ê¿ˆì´ ì—†ë‹¤.
 	}
 }
 
-// ¶Ç´Â
+// ë˜ëŠ”
 //public class type_and_newline {
 //	public static void main (String[] args) {
-//		System.out.println("°­ÇÑÄ£±¸ ´ëÇÑÀ°±º\n°­ÇÑÄ£±¸ ´ëÇÑÀ°±º");
+//		System.out.println("ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°\nê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°");
 //	}
 //}
-//ÀÌ·± ½ÄÀ¸·Î System.out.println("°­ÇÑÄ£±¸ ´ëÇÑÀ°±º\n°­ÇÑÄ£±¸ ´ëÇÑÀ°±º");
-//¾È¿¡¼­ \nÀ» µ¿ÇÑ ÁÙ¹Ù²ŞÀ» ÀÌ¿ëÇØ ¹Ù²Ü ¼öµµ ÀÖ´Ù.
+//ì´ëŸ° ì‹ìœ¼ë¡œ System.out.println("ê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°\nê°•í•œì¹œêµ¬ ëŒ€í•œìœ¡êµ°");
+//ì•ˆì—ì„œ \nì„ ë™í•œ ì¤„ë°”ê¿ˆì„ ì´ìš©í•´ ë°”ê¿€ ìˆ˜ë„ ìˆë‹¤.
